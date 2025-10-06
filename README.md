@@ -64,5 +64,3 @@ The internship focused on applying various machine learning techniques to a rest
 - Built interpretable recommendation and regression systems.  
 - Conducted spatial data analysis and visualization.  
 - Strengthened skills in Python-based machine learning workflows.  
-
--
